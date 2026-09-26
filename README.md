@@ -73,9 +73,9 @@ MPhil in Robotics and Autonomous Systems · 2025–Present
 **Southwest University**  
 B.Eng. in Automation · 2021–2025
 
-## Current Research Direction
+## Research Vision
 
-I am exploring how robots can use **active physical perception** before or during manipulation: probing, weighing, touching, and other short physical interactions can reveal object properties that are difficult or impossible to infer reliably from vision alone. The broader goal is to combine semantic VLA reasoning with fast, adaptive physical interaction for more robust real-world manipulation.
+My long-term goal is to develop **general-purpose robots with robust physical intelligence**: systems that can understand open-ended human intent, perceive and reason about the real world through multiple sensing modalities, and interact with diverse objects and environments with reliability, adaptability, and safety. I am broadly interested in advancing robot learning toward agents that can generalize beyond narrowly defined tasks and acquire reusable physical capabilities that transfer across scenarios, embodiments, and environments.
 
 ---
 
@@ -139,9 +139,9 @@ I am exploring how robots can use **active physical perception** before or durin
 **西南大学**  
 自动化 工学学士 · 2021–2025
 
-### 当前研究方向
+### 科研愿景
 
-我目前正在探索机器人如何通过 **主动式物理感知（Active Physical Perception）** 在操作前或操作过程中获取视觉无法可靠推断的物体属性。机器人可以通过 probing、掂量、触碰等短时物理交互获取质量、摩擦、刚度、质心等信息，再将这些信息用于后续语义决策和稳定操作。长期目标是将 VLA 的高层语义推理与快速、自适应的物理交互结合起来，提高机器人在未知物体和真实环境中的泛化能力与操作可靠性。
+我的长期科研目标是推动具备 **通用物理智能（general-purpose physical intelligence）** 的机器人系统发展，使机器人能够理解开放式的人类意图，通过多模态感知理解真实世界，并在复杂、多样的物体与环境中实现可靠、自适应且安全的物理交互。我希望推动机器人学习从面向单一任务的专用策略，逐步走向能够跨任务、跨场景、跨环境迁移与复用的通用物理能力。
 
 ---
 
