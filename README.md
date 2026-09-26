@@ -6,7 +6,7 @@
 
 *Robot Learning · Vision-Language-Action · Tactile Sensing · Reinforcement Learning · Robot Manipulation*
 
-[Personal Website](https://shayfeng.github.io/) · [中文版本](#中文版本) · [Email](mailto:zfeng224@connect.hkust-gz.edu.cn)
+[Personal Website](https://shayfeng.github.io/) · [中文简介](#中文简介) · [Email](mailto:zfeng224@connect.hkust-gz.edu.cn)
 
 </div>
 
@@ -79,7 +79,9 @@ My long-term goal is to develop **general-purpose robots with robust physical in
 
 ---
 
-## 中文版本
+<a id="中文简介"></a>
+<details>
+<summary><strong>中文简介 ▼</strong></summary>
 
 ### 关于我
 
@@ -142,6 +144,8 @@ My long-term goal is to develop **general-purpose robots with robust physical in
 ### 科研愿景
 
 我的长期科研目标是推动具备 **通用物理智能（general-purpose physical intelligence）** 的机器人系统发展，使机器人能够理解开放式的人类意图，通过多模态感知理解真实世界，并在复杂、多样的物体与环境中实现可靠、自适应且安全的物理交互。我希望推动机器人学习从面向单一任务的专用策略，逐步走向能够跨任务、跨场景、跨环境迁移与复用的通用物理能力。
+
+</details>
 
 ---
 
